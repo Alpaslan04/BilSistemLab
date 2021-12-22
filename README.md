@@ -1,3 +1,4 @@
 ## Bilgisayar Sistemleri Lab.
-# Alpaslan Dursun
-# 16260046
+# **Yapay Sinir Ağları**
+**Alpaslan Dursun**
+**16260046**
